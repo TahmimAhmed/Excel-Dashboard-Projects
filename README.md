@@ -5,6 +5,7 @@ I created two interactive Excel dashboards to practice data analysis and visuali
 ## Sales Dashboard (2024–2025)
 
 Shows total revenue, profit, orders, units sold, and profit margin. The charts compare monthly revenue and profit, sales by category, region and sales channel, and the top 10 products. Slicers let users filter the results.
+![Sales Dashboard preview](SalesDashboard.jpeg)
 
 
 ## Expense Dashboard (FY 2026)
